@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Dammy Olofintila`
+- **CCID:** `1705528`
 
 ## References and Resources
 
